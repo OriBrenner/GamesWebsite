@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     background-image: linear-gradient(45deg, rgb(104, 16, 16), orange);
+    text-align: center;
 }
 
 p {
